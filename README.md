@@ -24,6 +24,7 @@ Style Image:
 ![alt text](style_image/ghibliStyle.png)
 
 Generated Image:
+generated.png
 
 ---
 **Architecture**
