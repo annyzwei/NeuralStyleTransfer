@@ -23,8 +23,8 @@ Content Image:
 Style Image:
 ![alt text](style_image/ghibliStyle.png)
 
-Generated Image:
-generated.png
+Generated Image: </br>
+![alt text](generated.png)
 
 ---
 **Architecture**
